@@ -1,6 +1,6 @@
 <p align="center">
 	<img width="128px" src="box2d_icon.svg"/> 
-	<h1 align="center">Godot Box2D - UNMAINTAINED</h1> 
+	<h1 align="center">Godot Box2D</h1> 
 </p>
 
 ## NOTE
